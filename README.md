@@ -31,7 +31,7 @@ The dashboard combines KPI cards, charts, and ranked tables in a dark, Spotify-i
 
 
 
-![Spotify Music Analytics Dashboard](screenshots/dashboard-overview.png)
+![Spotify Music Analytics Dashboard](Spotify_Music_Analytics_Dashboard.png)
 
 ## 🛠️ Tools & Technologies
 
