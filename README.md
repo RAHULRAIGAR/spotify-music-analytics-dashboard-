@@ -29,7 +29,7 @@ The dashboard combines KPI cards, charts, and ranked tables in a dark, Spotify-i
 
 ## 🖥️ Dashboard Preview
 
-Add your dashboard screenshot to `screenshots/dashboard-overview.png`.
+
 
 ![Spotify Music Analytics Dashboard](screenshots/dashboard-overview.png)
 
@@ -45,7 +45,7 @@ Add your dashboard screenshot to `screenshots/dashboard-overview.png`.
 
 ## 🧮 DAX Measures
 
-The following examples illustrate the core calculations used in the project. Adjust table and column names to match your Power BI data model.
+
 
 ### 1. Total Listening Minutes
 
@@ -83,7 +83,6 @@ CALCULATE(
 )
 ```
 
-> **Note:** These are illustrative DAX measures. Validate each calculation against the relationships and business definitions in the final Power BI model before using it for reporting.
 
 ## 📁 Repository Structure
 
@@ -131,7 +130,8 @@ spotify-music-analytics-dashboard/
 
 Aspiring Data Analyst | Power BI | SQL | Excel
 
-Connect with me on [LinkedIn](YOUR_LINKEDIN_URL) or explore more projects on [GitHub](YOUR_GITHUB_URL).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/your-username/)
+Explore my projects on [GitHub](https://github.com/your-username).
 
 ---
 
